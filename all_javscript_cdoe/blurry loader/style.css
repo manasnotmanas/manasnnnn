@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+   display: flex;
+   justify-content: center;
+   align-items: center; 
+   overflow: hidden;
+}
+ .img img{
+    height: 1024px;
+    width: 768px;
+    filter: blur(0px);
+}
+h1{
+    position: absolute;
+}
